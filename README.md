@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-My Current Stats:
+My Current Stats: <br>
+<br>
 ![](https://github-readme-stats.vercel.app/api?username=RichardKessler&show_icons=true&theme=radical)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardKessler&show_icons=true&theme=radical)
 
