@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+B## My Current Stats:
+![](https://github-readme-stats.vercel.app/api?username=RichardKessler&show_icons=true&theme=radical)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RichardKessler&show_icons=true&theme=radical)
+
+
 <!--
 **RichardKessler/RichardKEssler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
